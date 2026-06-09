@@ -9,15 +9,6 @@
 </h3>
 
 #
-<p align="left">
-💻 Estudante e entusiasta de desenvolvimento e design  
-🎨 Interessada em UX/UI, interfaces minimalistas e experiências digitais  
-🌱 Atualmente aprendendo HTML, CSS e JavaScript.
-
-
-
-
-#
 <h3 align="left">My Stack:</h3> <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -33,11 +24,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaliadomagaslki/thaliadomagalski/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaliadomagaslki/thaliadomagalski/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thaliadomagaslki/thaliadomagalski/output/pacman-contribution-graph.svg">
 </picture>
 
-#
 
-###
