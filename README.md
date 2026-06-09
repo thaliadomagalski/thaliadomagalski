@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
+<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/5ef54a15-7143-47ae-88ca-bb2dcdebdca4" />
+
 #
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 <p align="center">
   <img src=".github/workflows/duque github (1280 x 320 px).gif" />
 </p>
+
 </h3>
 
 #
