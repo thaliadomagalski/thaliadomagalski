@@ -12,8 +12,6 @@
 **`Desenvolvedora Frontend`**
 
 Me chamo Thalia Domagalski, tenho 28 anos e atualmente curso Análise e Desenvolvimento de Sistemas no SENAC. Tenho foco em desenvolvimento front-end e sigo ampliando meus conhecimentos com o objetivo de atuar como desenvolvedora full stack.
-Busco evolução constante e tenho interesse em diferentes áreas da tecnologia, explorando novos desafios e expandindo minhas habilidades dentro do universo tech.
-
 
 #
 
