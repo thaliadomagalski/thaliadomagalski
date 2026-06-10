@@ -11,7 +11,7 @@
 
 **`Desenvolvedora Frontend`**
 
-Olá! Eu sou Thalia Domagalski, estudante de Análise e Desenvolvimento de Sistemas no SENAC e desenvolvedora em constante evolução. Tenho especial interesse pelo desenvolvimento front-end, onde posso transformar ideias em interfaces funcionais e intuitivas, enquanto amplio meus conhecimentos para atuar futuramente como desenvolvedora full stack ><
+Olá! Eu sou Thalia Domagalski, estudante de Análise e Desenvolvimento de Sistemas no SENAC e desenvolvedora em constante evolução. Tenho especial interesse pelo desenvolvimento front-end, onde posso transformar ideias em interfaces funcionais e intuitivas, enquanto amplio meus conhecimentos para atuar futuramente como desenvolvedora full stack.
 
 #
 
