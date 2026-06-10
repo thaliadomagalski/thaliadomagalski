@@ -1,5 +1,6 @@
-<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/5ef54a15-7143-47ae-88ca-bb2dcdebdca4" />
-</p>
+<img width="1618" height="153" alt="Image" src="https://github.com/user-attachments/assets/0e997ca3-66d5-481b-8cbb-1a433ee51ef4" />
+</br>
+</br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 <p align="center">
