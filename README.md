@@ -31,20 +31,18 @@ Olá! Eu sou Thalia Domagalski, estudante de Análise e Desenvolvimento de Siste
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThaliaDomagalski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="left">
+
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=ThaliaDomagalski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaliaDomagalski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaliaDomagalski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Tecnologias mais utilizadas"
   />
 
 </p>
