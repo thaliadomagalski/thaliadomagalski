@@ -9,10 +9,12 @@
 
 </h3>
 
-**`Desenvolvedora Frontend`**
+**`Desenvolvedora Full Stack em formação`**
 
-Oi, tudo bem? Sou a Thalia! Estudante de ADS no SENAC e dev em constante aprendizado. Meu foco é construir telas incríveis e funcionais, combinando design com código enquanto me desenvolvo como dev Full Stack.
+Olá, eu sou a Thalia! 🤘 <br>
+Estudante de ADS no SENAC e dev em constante aprendizado. Atualmente estou explorando o desenvolvimento de aplicações e conhecendo diferentes etapas do desenvolvimento de software, desde a construção até os testes.
 
+Aqui compartilho meus projetos, estudos e aprendizados ao longo dessa jornada.
 #
 
 <h3 align="left">My Stack:</h3> <div>
